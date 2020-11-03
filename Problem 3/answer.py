@@ -9,6 +9,7 @@ def is_prime(n):
             return False
     return True
 
+
 prime = 0
 number = 1555
 for n in range(1, number + 1):
