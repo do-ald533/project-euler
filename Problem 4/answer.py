@@ -1,4 +1,4 @@
-palindrom_list = [i*j for i in range(100, 999+1) for j in range(100, 999+1) ]
+palindrom_list = [i*j for i in range(100, 999+1) for j in range(100, 999+1)]
 
 result = 0
 
