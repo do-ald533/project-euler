@@ -9,3 +9,6 @@ For example, 3² + 4² = 9 + 16 = 25 = 5².
 
 ## Solution:
 For this problem i chose to use Typescript, since i can define types to variables and therefore make it easier to read.
+
+## Result:
+200 * 375 * 425 = 31875000
